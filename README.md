@@ -3,6 +3,10 @@
 ### A Behavioural Analysis of Customer Segmentation Using K-Means Clustering
 
 > **Working Paper | Consumer Behaviour | Marketing Psychology | Quantitative Research**
+> ![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Research](https://img.shields.io/badge/Research-Consumer_Behaviour-green)
+![License](https://img.shields.io/badge/License-MIT-red)
 
 ---
 
