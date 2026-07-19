@@ -55,7 +55,7 @@ Full code: Python (pandas, scikit-learn). Dashboard: Power BI.
 Python (pandas, scikit-learn), Power BI
 
 ## Full Report
-See `/report/Whitepaper_Final.pdf` for the complete write-up, including methodology 
+See [Whitepaper_Final.pdf](report/Whitepaper_Final.pdf) for the complete write-up... 
 justification, segment profiles, and discussion of implications for AI-driven personalisation.
 
 ## Author
