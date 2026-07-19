@@ -105,7 +105,7 @@ Overall, the findings suggest that **website traffic alone should not be interpr
 
 The customer segments were visualised using an interactive Power BI dashboard.
 
-![Dashboard Preview](images/dashboard_page1.png)
+![Dashboard Preview](images/dashboard_page1.jpg)
 
 Additional dashboard screenshots are available in the **images** folder.
 
