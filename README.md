@@ -141,7 +141,7 @@ Customer-Segmentation-Kmeans
 
 # Working Paper
 
-📄 **[Read the full whitepaper](./Whitepaper_Final.pdf)**
+📄 **[Read the full whitepaper](report/Whitepaper_Final.pdf)**
 
 The paper expands on the methodology, customer profiles, behavioural interpretation, managerial implications, limitations, and future research directions.
 
